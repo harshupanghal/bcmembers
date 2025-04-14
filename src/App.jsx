@@ -39,7 +39,6 @@ const projectImages = [
   "/workflow.png",
   "/archi.png",
   "/decryption.png",
-
 ];
 
 const LandingPage = () => {
