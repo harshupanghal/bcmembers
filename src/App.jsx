@@ -33,7 +33,7 @@ const projectMembers = [
 const researchPaperPDF = "/research_paper.pdf";
 const projectPresentationPDF =
   "http://www.africau.edu/images/default/sample.pdf";
-const projectReportPDF = "http://www.africau.edu/images/default/sample.pdf";
+const projectReportPDF = "/report.pdf";
 const demoVideoSrc = "/vaultify_demo.mp4";
 
 // Enhanced project images with metadata
@@ -58,6 +58,11 @@ const projectImages = [
     src: "/decryption.png", 
     alt: "Decryption process", 
     caption: "Secure decryption flow" 
+  },
+  { 
+    src: "/str.png", 
+    alt: "swat", 
+    caption: "swat" 
   }
 ];
 
