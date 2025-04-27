@@ -39,10 +39,21 @@ const demoVideoSrc = "/vaultify_demo.mp4";
 // Enhanced project images with metadata
 const projectImages = [
   { 
+    src: "/fee.png", 
+    alt: "Fee Submission", 
+    caption: "Fee Submitted",
+    thumbnail: "/fee.png"  // Using same image as thumbnail, ideally use optimized version
+  },
+  { 
     src: "/accept.jpg", 
-    alt: "Acceptance workflow", 
-    caption: "User acceptance flow diagram",
+    alt: "Acceptance ", 
+    caption: "Paper Acceptance",
     thumbnail: "/accept.jpg"  // Using same image as thumbnail, ideally use optimized version
+  },
+  { 
+    src: "/1.jpg", 
+    alt: "Confirmation", 
+    caption: "Confrimation"
   },
   { 
     src: "/workflow.png", 
